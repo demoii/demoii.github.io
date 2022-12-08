@@ -15,14 +15,14 @@ An experienced data scientist with a passion for understanding issues/needs and 
 - Credit Risk Measurement Analyst, [HSBC](https://www.hsbc.com), 2009 - 2012, Shanghai/Hong Kong 
 
 ## Education: 
-- *Fudan University* 2009 - 2012, Bsc. Mathematics and Applied Mathematics  
+- **Fudan University** 2009 - 2012, Bsc. Mathematics and Applied Mathematics  
 
 ## Skills & Training: 
-- Predictive Systems, Decision Science, Anomaly Detection & Alerting System, Risk Measurement, Operation Research, Machine Learning, Convolutional Neural Networks, Sequence Models, Operation Research, Workflow Design   
+- Predictive Systems, Decision Science, Anomaly Detection & Alerting System, Risk Measurement, Operation Research, Machine Learning, Convolutional Neural Networks, Sequence Models, Operation Research, Experiment and Controlled Test Design, Operation Workflow Design   
 - Applied Mathematics, Probability Theory, Bayesian Statistics, Monte Carlo, Numerical Simulation, Network and Graph theory
-- *Sustainable Energy* 2022
-- *Deep Learning Specification* by deeplearning.ai 2021-2022
-- *Machine Learning* 2015
+- **Sustainable Energy** MIT 22.811, 2022
+- **Deep Learning Specification** by deeplearning.ai, 2021-2022
+- **Machine Learning** Stanford Online, 2015
 
 ## Tools:
 - Python: scikit-learn, numpy, pandas, Matplotlib, Plotly…
