@@ -5,4 +5,4 @@ categories: [blog, intro]
 tags: [misc]     # TAG names should always be lowercase
 ---
 
-This site is used as a playground for data science project and GIS data exploration. 
+This site is used as a playground for data science projects and GIS data exploration. 
