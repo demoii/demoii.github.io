@@ -1,6 +1,6 @@
 ---
 title: Hello World
-date: 2022-12-08 HH:MM:SS +/-TTTT
+date: 2022-12-07 12:59:00 +0800
 categories: [blog, intro]
 tags: [misc]     # TAG names should always be lowercase
 ---
