@@ -78,10 +78,10 @@ theme_mode:   # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: 'https://demoi.info/wp-content/uploads'
+# img_cdn: 'https://demoi.info/wp-content/uploads/'
 
 # the avatar on sidebar, support local or CORS resources
-avatar: '/hehe.gif'
+avatar: '/assets/images/hehe.gif'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
@@ -166,7 +166,10 @@ defaults:
       path: assets/js/dist
     values:
       swcache: true
-
+  - scope:
+      path: "assets/images"
+    values:
+      image: true
 sass:
   style: compressed
 
